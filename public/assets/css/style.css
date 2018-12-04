@@ -1,0 +1,40 @@
+#logo{
+  width: 150px;
+}
+
+#title{
+  font-family: 'Permanent Marker', cursive;
+}
+
+#description{
+  font-family: 'Permanent Marker', cursive;
+}
+
+#texto{
+  font-family: 'Irish Grover', cursive;
+}
+
+
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-family: 'Irish Grover', cursive;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}feBlend
+
+/* font-family: 'Miltonian Tattoo', cursive;
+ */
